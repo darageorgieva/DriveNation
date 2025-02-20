@@ -1,10 +1,6 @@
 # DriveNation - Car Rental
 
-## General Information
 
-**Project Title**: Car Rental  
-**Created by**: Dara Georgieva  
-**Supervisor**: Ivan Iliev, IT Career 2024, Plovdiv, Bulgaria  
 
 ### Application Goals:
 1. Provide an easy and convenient way for car rentals through the website.
